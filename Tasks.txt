@@ -1,0 +1,15 @@
+**Authentification:
+   ** Logout diplay + prob login ( screen stay ) + register not loading
+**Add Video with auth
+**MyVideoScreen
+**edit video
+**delete video 
+**Play Video screen
+**load videos 5 by 5 in homeScreen
+**load videos 5 by 5 in MyVideosScreen  play video
+**search in firebase in homeScreen
+**search in firebase in MyVideosScreen
+**MyVideosScreen  play video
+**search in youtube show result and add videos to fire base from youtube
+**change font
+**add icon Apps
